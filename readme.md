@@ -2,7 +2,7 @@
 
 JavaScript Mixins - "It's the Catalina wine mixer!"
 
-![Catalina Win Mixer - "Step Brothers"](https://raw.github.com/derickbailey/catalinajs/master/images/catalinaWinMixer-StepBrothers.jpg)
+![Catalina Win Mixer - "Step Brothers"](https://raw.github.com/derickbailey/catalinajs/master/images/catalineWinMixer-StepBrothers.jpg)
 
 ## Downloads
 
